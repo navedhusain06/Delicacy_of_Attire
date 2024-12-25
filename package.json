@@ -1,0 +1,14 @@
+{
+  "name": "fashion_03-08-24",
+  "version": "1.0.0",
+  "description": "Welcome to our comprehensive tutorial on building a responsive clothing website from scratch using HTML, CSS, and JavaScript!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
